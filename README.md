@@ -310,5 +310,5 @@ This project was developed as part of the **Full Stack Development** coursework 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Soumitra Malok</strong> — Vel Tech University
+  Made with ❤️ by <strong>Manish Kumar Alok</strong> — Vel Tech University
 </p>
